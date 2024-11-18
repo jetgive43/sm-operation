@@ -5,3 +5,6 @@ Mail Server
   
 Slack-server  
 213.183.63.24
+  
+Backup-server  
+45.143.221.24 
